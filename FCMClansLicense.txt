@@ -1,0 +1,42 @@
+﻿📜 FCM Clans License
+Copyright (c) 2026 FCWorkspace
+ All rights reserved.
+ Creator: MineShprot
+________________
+
+
+🔒 Ownership
+This software, FCM Clans, and all associated assets (including but not limited to code, textures, concepts, and design) are the exclusive property of FCWorkspace.
+________________
+
+
+✅ You ARE allowed to:
+* Use this mod in personal gameplay
+* Use this mod on public or private Minecraft servers
+* Include this mod in modpacks
+________________
+
+
+❌ You are NOT allowed to:
+* Redistribute this mod outside of official sources without permission
+* Reupload this mod to other platforms or websites
+* Modify, decompile, or reverse engineer the mod
+* Use any part of this mod in your own projects
+* Sell or monetize this mod directly
+________________
+
+
+⚠️ Monetization
+Server owners may monetize access to their servers (e.g., donations, ranks), but may NOT sell the mod itself or claim it as their own work.
+________________
+
+
+📌 Disclaimer
+This software is provided "as is", without warranty of any kind.
+FCWorkspace is not responsible for any damage, data loss, or issues caused by the use of this mod.
+________________
+
+
+📩 Permissions
+For special permissions (e.g., redistribution, modification), contact the creator:
+MineShprot (FCWorkspace)
