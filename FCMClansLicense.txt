@@ -21,7 +21,7 @@ ________________
 * Redistribute this mod outside of official sources without permission
 * Reupload this mod to other platforms or websites
 * Modify, decompile, or reverse engineer the mod
-* Use any part of this mod in your own projects
+* Use, copy, or adapt any part of this mod (including code, assets, or design) in your own projects
 * Sell or monetize this mod directly
 ________________
 
